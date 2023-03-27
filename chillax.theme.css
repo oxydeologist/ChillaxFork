@@ -29,8 +29,6 @@
 /*@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");*/
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-@import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
 @import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");
@@ -98,7 +96,7 @@
   --background-image:var(--de-suggested-bg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
-  --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
+  --de-suggested-bg: url('https://media.discordapp.net/attachments/709956262787416104/1085110160315392100/16787808191586428.png?width=1093&height=662');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
